@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustapha-pakos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moustapha94@outlook.com) 
 
 # 💻 Tech Stack:
+
 <!-- 🟩 Outils essentiels -->
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
