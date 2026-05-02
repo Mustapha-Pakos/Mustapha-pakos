@@ -30,6 +30,7 @@
 ![API REST](https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=api&logoColor=white)
 
 <!-- 🟪 Apps & Dev -->
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
