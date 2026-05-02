@@ -25,11 +25,11 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🟨 ETL / Automatisation
-![ELT(Airbyte)](https://img.shields.io/badge/ETL%2FELT-4B8BBE?style=for-the-badge)
+![ELT/Airbyte](https://img.shields.io/badge/ETL%2FELT-4B8BBE?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![API REST](https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=api&logoColor=white)
 
-<!-- 🟪 Apps & Dev -->
+### 🟪 Apps & Dev
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
