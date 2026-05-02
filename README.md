@@ -2,6 +2,7 @@
 
 🎯 **Data Analyst junior**, en recherche d’une **alternance (contrat d’apprentissage)** – Bac+4 Data Analyst / BI  
 📅 **Disponible immédiatement**  
+
 📞 **07 67 63 39 67**
 
 
