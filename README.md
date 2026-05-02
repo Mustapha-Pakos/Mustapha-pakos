@@ -1,5 +1,9 @@
-# Bienvenue :
-### 🎯 Data Analyst junior, En recherche d'alternance (Contrat d'apprentissage) Bac + 4 Formation Data Analyst/BI Analyst. Disponible immédiatement 07 67 63 39 67
+#  Bienvenue dans ma cabane
+
+🎯 **Data Analyst junior**, en recherche d’une **alternance (contrat d’apprentissage)** – Bac+4 Data Analyst / BI  
+📅 **Disponible immédiatement**  
+📞 **07 67 63 39 67**
+
 
 
 ## 🌐 Socials:
