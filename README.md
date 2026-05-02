@@ -1,5 +1,7 @@
-# Description :
-### 🎯 Data Analyst junior, actuellement à la recherche d’une alternance
+# Bienvenue :
+### 🎯 Data Analyst junior, En recherche d'alternance (Contrat d'apprentissage) Bac + 3/4 Formation Data Analyst/BI Analyst. Disponible immédiatement
+07 67 63 39 67
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustapha-pakos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moustapha94@outlook.com) 
