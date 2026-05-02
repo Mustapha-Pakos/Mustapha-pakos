@@ -1,4 +1,4 @@
-#  Bienvenue dans ma cabane
+#  🏡 Bienvenue dans ma cabane
 
 🎯 **Data Analyst junior**, en recherche d’une **alternance (contrat d’apprentissage)** – Bac+4 Data Analyst / BI  
 📅 **Disponible immédiatement**  
